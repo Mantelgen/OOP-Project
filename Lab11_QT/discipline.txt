@@ -1,0 +1,21 @@
+OS,Briciu Anamaira,Obligatorie,43
+OOP,Onescu,Optionala,33
+Info,Popescu,Optionala,32
+Matematica Avansata,Andrei Popescu,Obligatorie,4
+Istoria Artei,Maria Ionescu,Facultativa,2
+Fizica Cuantica,Mihai Dumitrescu,Obligatorie,3
+Chimie Organica,Ioana Marin,Optionala,1
+Psihologie Sociala,Elena Georgescu,Obligatorie,3
+Literatura Comparata,Alina Dobre,Facultativa,3
+Filosofie Moderna,Cristina Enache,Optionala,2
+Inginerie Software,Vlad Neagu,Facultativa,34
+Medicina Generala,Simona Rusu,Obligatorie,5
+Antropologie Culturala,George Mihai,Optionala,2
+Educatie Fizica,Laura Matei,Facultativa,1
+Geologie Aplicata,Ioan Petrescu,Obligatorie,3
+Informatica Teoretica,Anca Toma,Facultativa,2
+Marketing Digital,Claudiu Enescu,Optionala,3
+Sociologie Urbana,Roxana Badea,Facultativa,2
+Limbi Straine,Sorin Apostol,Obligatorie,4
+SDA,Gabi,Optionala,23
+SD,Serbi,Optionala,23

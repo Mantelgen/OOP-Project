@@ -1,0 +1,28 @@
+﻿  Reading Qt configuration (C:/Qt/6.7.0/msvc2019_64/bin/qmake)
+  Contract.cpp
+  CosGUI.cpp
+  ServiceDisciplineGUI.cpp
+  Tests.cpp
+  UI.cpp
+  main.cpp
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(13,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ServiceDisciplineGUI.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(71,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ServiceDisciplineGUI.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(13,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(71,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(13,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CosGUI.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\Models.h(71,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CosGUI.cpp')
+  
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\ServiceDisciplineGUI.cpp(229,28): warning C4101: 'er': unreferenced local variable
+D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\CosGUI.cpp(94,25): warning C4101: 'er': unreferenced local variable
+  Lab11_QT.vcxproj -> D:\Facultate\OOP\Proiecte Lab\Lab11_QT\x64\Debug\Lab11_QT.exe

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{3a4701e0-4d2a-4d09-91e2-e86ef56a1bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Repository">
+      <UniqueIdentifier>{4798369f-9e2c-4060-ba33-08f70392fcab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service controller">
+      <UniqueIdentifier>{c0b9920b-52d2-459e-b5fe-4e6f0220a380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{0cddcda9-d623-4ee5-91e1-c6d4be5a74a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User Interface">
+      <UniqueIdentifier>{75bd65ac-9bdb-4846-9e77-02cc58e60e13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Student Contract">
+      <UniqueIdentifier>{ace0ab83-64ae-40a5-b861-d55c6ece38e9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Discipline.cpp">
+      <Filter>Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.cpp">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Service controller</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>User Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Contract.cpp">
+      <Filter>Student Contract</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Discipline.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Service controller</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>User Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Validator.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="Undo.h">
+      <Filter>Service controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Contract.h">
+      <Filter>Student Contract</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

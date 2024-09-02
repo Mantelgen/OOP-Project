@@ -1,0 +1,21 @@
+[2024-05-16 08:23:27] [info] Start Program:
+Path:"D:\Facultate\OOP\Proiecte Lab\Lab11_QT\x64\Debug\Lab11_QT.exe"
+Arguments:
+Working directory: "D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT\"
+Modules: Selected: D:\Facultate\OOP\Proiecte Lab\Lab11_QT\x64\Debug\Lab11_QT.exe Excluded: 
+Sources: Selected: D:\Facultate\OOP\Proiecte Lab\Lab11_QT\Lab11_QT Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\irimi\AppData\Local\Temp\1vslf5ce.1ot 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-16 08:23:27] [info] Module: D:\Facultate\OOP\Proiecte Lab\Lab11_QT\x64\Debug\Lab11_QT.exe is selected because it matches selected pattern: D:\Facultate\OOP\Proiecte Lab\Lab11_QT\x64\Debug\Lab11_QT.exe
+[2024-05-16 08:23:29] [info] ----------------------------------------------------
+[2024-05-16 08:23:29] [info] Coverage binary generated in file: C:\Users\irimi\AppData\Local\Temp\1vslf5ce.1ot
+[2024-05-16 08:23:29] [info] ----------------------------------------------------
